@@ -1,0 +1,4 @@
+baseURL = "https://info.newmsx.nl/"
+languageCode = "en-us"
+title = "NewMSX info pages"
+theme = "techdoc"
