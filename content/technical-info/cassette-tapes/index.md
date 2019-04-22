@@ -19,7 +19,8 @@ cassette read head alignment. Also speed is slow (1200 baud) or not that slow
 (2400 baud). Note that MSX is very week in detecting load errors.
 
 All you want to know about the technical details and programming bios calls of
-MSX can be found in the [MSX Red book]().
+MSX can be found in the 
+[MSX Red book](https://techinfo.newmsx.nl/books/).
 Hardware circuit diagrams can be found in the service manuals on the hardware
 page.
 
@@ -65,7 +66,8 @@ To copy a MSX cassette tape there is more than one way:
   method with low chance of success but it might work.
 * Use a program like COPMSX to copy all blocks one by one to another tape.
   This program not only allows to copy the cassette tape contents but can also
-  convert from 1200 to 2400 baud or the other way around. [Here](tapdir.zip) you find the
+  convert from 1200 to 2400 baud or the other way around. 
+  [Here](https://files.techinfo.newmsx.nl/technical-info/cassette-tapes/tapdir.zip) you find the
   program with assembler (TASM) source ,written in 1985 for MSX and adapted in
   2001 to english and MSX-2.
 * Record the output of the cassette recorder on a PC with a soundcard.
@@ -114,7 +116,7 @@ diagram for a simple opamp based amplifier and the connector.
 Simple to construct on experimenters board. I took the easy way by using the
 + 12V and – 12 V from the MSX cartrdige connector as shown in the next figures.
 
-![msx ampf](images/msxampf.gif)  
+![msx ampf](images/msxampf.gif)
 ![msx resetb](images/resetb.gif)  
 
 
@@ -153,6 +155,8 @@ silence between header and datablock.
 Note that the idea of using a audio CD as source of cassette formatted data is
 not new, Aackosoft produced aCD sequentiel CD with games and an improved
 loader routime. The CD is in cas format on funet, here you have the MSX Games
-Collection sequential CD [first track](cdgames1.zip)) and
-[third track](cdgames3.zip) (wave format).
-
+Collection sequential CD 
+[first track](https://files.techinfo.newmsx.nl/technical-info/cassette-tapes/cdgames1.zip)
+and
+[third track](https://files.techinfo.newmsx.nl/technical-info/cassette-tapes/cdgames3.zip)
+(wave format).
