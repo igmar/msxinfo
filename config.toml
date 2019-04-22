@@ -1,4 +1,5 @@
-baseURL = "https://info.newmsx.nl/"
+baseURL = "https://techinfo.newmsx.nl/"
 languageCode = "en-us"
-title = "NewMSX info pages"
+title = "NewMSX MSX tech info pages"
 theme = "techdoc"
+canonifyURLs = true

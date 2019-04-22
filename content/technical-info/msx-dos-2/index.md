@@ -1,7 +1,7 @@
 ---
 title: "MSX DOS 2"
 date: 2019-04-07T18:33:14+02:00
-draft: true
+draft: false
 ---
 
 
@@ -19,7 +19,7 @@ With thanks to Jipe (Jean Pierre Dubois) images and circuit diagram of the ASCII
 
 [MSX DOS 2 ROMS (2.1.2.2.2.3 english and japanese disks)](msxdos22complete.zip)
 
-[asciidos](images/asciidios1.jpg)
-[asciidos](images/asciidios2.jpg)
-[asciidos](images/asciidios3.jpg)
-[asciidos](images/asciidios4.png)
+![asciidos](images/asciidios1.jpg)  
+![asciidos](images/asciidios2.jpg)  
+![asciidos](images/asciidios3.jpg)  
+![asciidos](images/asciidios4.png)

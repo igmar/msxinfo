@@ -1,7 +1,7 @@
 ---
 title: "Cassette Tapes"
 date: 2019-04-07T18:33:14+02:00
-draft: true
+draft: false
 ---
 
 # The MSX cassette system
@@ -26,6 +26,8 @@ page.
 As an example of how to use the tape related MSX BIOS calls programs see these
 sources of routines to read and write the screen contents from and to tape 
 by M.C. de Jong.
+
+![whsmith](images/whsmith.gif)
 
 When I got my first MSX computer (a Toshiba HX-10) i tried to use my simple
 cassette recorder but it failed all the time. So i bought a WH Smith tape
@@ -106,14 +108,14 @@ not work by just connecting output to input (you have to make your own cables
 anyway) , the signal needs to be amplified (10x was enough). See the next
 diagram for a simple opamp based amplifier and the connector.
 
-![msx amp](msxamp.gif)
-![msx cascon](msxcascon.gif)
+![msx amp](images/msxamp.gif)  
+![msx cascon](images/msxcascon.gif)  
 
 Simple to construct on experimenters board. I took the easy way by using the
 + 12V and – 12 V from the MSX cartrdige connector as shown in the next figures.
 
-![msx ampf](msxampf.gif)
-![msx resetb](resetb.gif)
+![msx ampf](images/msxampf.gif)  
+![msx resetb](images/resetb.gif)  
 
 
 ## PC as cassette recorder
