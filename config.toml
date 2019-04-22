@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "NewMSX MSX tech info pages"
 theme = "techdoc"
 canonifyURLs = true
+copyright = 'All content is under the  CC BY-NC-SA 4.0.'
