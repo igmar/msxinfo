@@ -1,6 +1,5 @@
 ---
 title: "Cassette Tapes"
-date: 2019-04-07T18:33:14+02:00
 draft: false
 ---
 

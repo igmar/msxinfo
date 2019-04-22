@@ -1,6 +1,5 @@
 ---
 title: "MSX Hardware"
-date: 2019-04-07T18:33:14+02:00
 draft: true
 ---
 

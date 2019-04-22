@@ -1,6 +1,5 @@
 ---
 title: "MSX TURBO R"
-date: 2019-04-22T18:33:14+02:00
 draft: false
 ---
 
