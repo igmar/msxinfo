@@ -1,0 +1,4 @@
+public/
+publish.sh
+*.iml
+*.idea/
