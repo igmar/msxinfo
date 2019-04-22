@@ -25,4 +25,24 @@ section.
 
 ## Technical info
 
-[Floppy disk controller]() (email from the MSX mailing list), register info
+[Floppy disk controller](https://files.techinfo.newmsx.nl/technical-info/msx-turbor/floppyfdc.txt)
+(email from the MSX mailing list), register info
+
+[Repair the floppy disk drive](https://files.techinfo.newmsx.nl/technical-info/msx-turbor/turbordrive.pdf)
+(magazine article, emails from the MSX mailing list, web pages): working and
+tested instructions in english and dutch how to repair a drive, add a second
+drive and/or replace it. Also [see the article](/do-it-yourself/msx-floppy-drives)
+on repairing the floppy disk drive in the MSX.
+
+[Replace the belt of a floppy disk drive](https://files.techinfo.newmsx.nl/technical-info/msx-turbor/panasonicturborreplacebet.pdf)
+in the turboR: picture instructions
+
+[TurboR ST service manual](https://files.techinfo.newmsx.nl/technical-info/msx-turbor/panasonicturborstsm.pdf)
+
+[TurboR GT service manual black and white small version](https://files.techinfo.newmsx.nl/technical-info/msx-turbor/panasonicturborgtsm.pdf)
+
+[TurboR GT big version in color](https://files.techinfo.newmsx.nl/technical-info/msx-turbor/panasonicturborgtcolorsm.pdf)
+
+[TurboR Technical Hand Book PDF](https://files.techinfo.newmsx.nl/technical-info/msx-turbor/MSX_turboR_technical_hand_book.pdf)
+
+![Technical handbook](images/msxtrhandbook_frontcover.jpg)
